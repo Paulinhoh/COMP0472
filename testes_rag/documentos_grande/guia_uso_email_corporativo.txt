@@ -1,0 +1,19 @@
+Guia de Uso do E-mail Corporativo — TechNova Soluções
+
+1. Uso aceitável
+O e-mail corporativo deve ser utilizado prioritariamente para fins profissionais. Uso pessoal ocasional é tolerado, desde que não interfira nas atividades de trabalho nem viole outras políticas da empresa.
+
+2. Conteúdo proibido
+É proibido o envio de conteúdo discriminatório, ofensivo, ilegal ou que viole direitos autorais utilizando o e-mail corporativo.
+
+3. Armazenamento
+Cada colaborador possui cota de 50 GB de armazenamento de e-mail. Ao atingir 90% da cota, o sistema envia um alerta automático.
+
+4. Retenção de dados
+E-mails são retidos por 5 anos para fins de conformidade, mesmo após exclusão pelo usuário, sendo recuperáveis pela equipe de TI mediante solicitação formal.
+
+5. Assinatura padrão
+Todos os colaboradores devem utilizar o modelo de assinatura corporativa padronizado, disponível no portal interno de comunicação.
+
+6. Phishing e segurança
+Mensagens suspeitas devem ser reportadas pelo botão de phishing integrado ao cliente de e-mail, conforme descrito no Manual de Segurança de Rede.

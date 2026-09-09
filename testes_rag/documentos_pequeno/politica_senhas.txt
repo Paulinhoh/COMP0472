@@ -1,0 +1,22 @@
+Política de Senhas — TechNova Soluções
+
+1. Objetivo
+Esta política define os requisitos mínimos para criação, uso e renovação de senhas de acesso aos sistemas internos da TechNova Soluções.
+
+2. Requisitos mínimos
+Toda senha corporativa deve ter no mínimo 12 caracteres, combinando letras maiúsculas, letras minúsculas, números e símbolos. Não é permitido o uso do nome do usuário, data de nascimento ou palavras óbvias relacionadas à empresa.
+
+3. Renovação
+As senhas devem ser trocadas a cada 90 dias. O sistema não permite reutilizar nenhuma das últimas 5 senhas cadastradas.
+
+4. Autenticação multifator (MFA)
+A autenticação multifator é obrigatória para acesso a sistemas críticos, incluindo VPN, e-mail corporativo e sistemas financeiros.
+
+5. Bloqueio de conta
+Após 5 tentativas de login incorretas, a conta é bloqueada automaticamente por 30 minutos. Para desbloqueio antecipado, o colaborador deve contatar o suporte de TI.
+
+6. Compartilhamento
+É estritamente proibido compartilhar senhas com outros colaboradores, mesmo entre membros da mesma equipe. Suspeitas de vazamento de senha devem ser reportadas imediatamente ao time de Segurança da Informação.
+
+7. Ferramentas recomendadas
+O uso de gerenciadores de senha corporativos é recomendado para todos os colaboradores.

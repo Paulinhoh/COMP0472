@@ -1,0 +1,19 @@
+Procedimento de Resposta a Incidentes — TechNova Soluções
+
+1. Classificação de severidade
+Incidentes são classificados em quatro níveis: Sev1 (indisponibilidade total de sistema crítico), Sev2 (degradação severa de serviço), Sev3 (impacto limitado a um grupo de usuários) e Sev4 (impacto mínimo ou cosmético).
+
+2. Papéis durante o incidente
+Todo incidente Sev1 ou Sev2 deve ter um Incident Commander designado, responsável por coordenar a comunicação e as ações de mitigação, além de um responsável técnico principal.
+
+3. Comunicação
+Incidentes Sev1 geram atualizações de status a cada 30 minutos no canal de comunicação interno até a resolução. Incidentes Sev2 geram atualizações a cada 2 horas.
+
+4. SLA de resolução
+Sev1: meta de resolução em até 4 horas. Sev2: até 8 horas. Sev3: até 2 dias úteis. Sev4: até 5 dias úteis.
+
+5. Post-mortem
+Todo incidente Sev1 ou Sev2 exige um relatório de post-mortem, sem culpabilização individual, entregue em até 5 dias úteis após a resolução, contendo causa raiz, linha do tempo e ações preventivas.
+
+6. Registro
+Todos os incidentes, independentemente da severidade, devem ser registrados na ferramenta interna de gestão de incidentes.

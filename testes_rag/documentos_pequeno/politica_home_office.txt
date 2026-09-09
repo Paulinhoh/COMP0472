@@ -1,0 +1,22 @@
+Política de Trabalho Remoto (Home Office) — TechNova Soluções
+
+1. Elegibilidade
+Colaboradores com no mínimo 3 meses de empresa e função compatível com trabalho remoto podem solicitar adesão ao regime de home office, mediante aprovação do gestor direto.
+
+2. Requisitos técnicos
+É exigida conexão de internet com velocidade mínima de 20 Mbps. O uso de VPN corporativa é obrigatório para acesso a qualquer sistema interno.
+
+3. Equipamentos
+Apenas notebooks fornecidos pela empresa podem ser utilizados para acessar sistemas internos. É proibido o uso de computadores pessoais para essa finalidade.
+
+4. Disponibilidade
+Todos os colaboradores em home office devem estar disponíveis no horário núcleo, das 10h às 16h, para reuniões e comunicação com a equipe.
+
+5. Segurança
+É proibido conectar-se a sistemas internos utilizando redes Wi-Fi públicas sem VPN ativa. Qualquer suspeita de comprometimento de rede deve ser reportada imediatamente.
+
+6. Reembolso de internet
+A empresa reembolsa até R$ 100,00 mensais referentes ao custo de internet residencial, mediante apresentação de comprovante.
+
+7. Acompanhamento
+Um check-in semanal com o gestor direto é obrigatório para colaboradores em regime remoto.

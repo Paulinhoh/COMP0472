@@ -1,0 +1,4 @@
+faiss/
+.venv/
+venv/
+__pycache__/

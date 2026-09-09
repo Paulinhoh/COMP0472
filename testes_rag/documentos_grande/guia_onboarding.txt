@@ -1,0 +1,19 @@
+Guia de Onboarding — TechNova Soluções
+
+1. Primeiro dia
+No primeiro dia, o novo colaborador recebe as credenciais de acesso, notebook corporativo e um checklist de boas-vindas enviado pelo time de RH.
+
+2. Treinamentos obrigatórios
+Todo novo colaborador deve concluir, nos primeiros 15 dias, os treinamentos obrigatórios de Segurança da Informação e Código de Conduta, disponíveis na plataforma interna de aprendizagem.
+
+3. Programa de mentoria (buddy)
+Cada novo colaborador é acompanhado por um "buddy" durante os primeiros 30 dias, responsável por auxiliar na integração com a equipe e os processos internos.
+
+4. Período de experiência
+O período de experiência tem duração de 90 dias, com avaliações formais aos 45 e aos 90 dias.
+
+5. Benefícios
+O cadastro nos benefícios (plano de saúde, vale-refeição, etc.) deve ser concluído em até 10 dias corridos a partir da data de admissão.
+
+6. Contato de suporte
+Dúvidas sobre equipamentos ou acessos devem ser direcionadas ao suporte de TI pelo portal interno.

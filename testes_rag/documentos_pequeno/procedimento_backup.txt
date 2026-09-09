@@ -1,0 +1,22 @@
+Procedimento de Backup — TechNova Soluções
+
+1. Frequência
+Backups incrementais são realizados diariamente às 02h. Um backup completo é realizado semanalmente, aos domingos, às 03h.
+
+2. Retenção
+Os backups incrementais são retidos por 30 dias. Os backups completos semanais são retidos por 6 meses.
+
+3. Localização e redundância
+As cópias de backup são armazenadas em dois data centers geograficamente separados, garantindo redundância em caso de falha em um dos locais.
+
+4. Criptografia
+Todos os backups são criptografados em repouso utilizando o padrão AES-256.
+
+5. Testes de restauração
+A equipe de Infraestrutura realiza um teste de restauração completo uma vez por mês, documentando o tempo total do processo e eventuais falhas.
+
+6. Escalonamento de falhas
+Caso um backup falhe por três dias consecutivos, o incidente deve ser escalonado automaticamente para o gerente de Infraestrutura, com notificação por e-mail e mensagem no canal de plantão.
+
+7. Responsabilidade
+A equipe de Infraestrutura é responsável pela execução, monitoramento e auditoria periódica dos backups.

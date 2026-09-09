@@ -1,0 +1,18 @@
+Manual de Atendimento ao Cliente — TechNova Soluções
+
+1. Tom de comunicação
+O atendimento deve ser sempre cordial, objetivo e empático, evitando jargões técnicos excessivos ao se comunicar com clientes não técnicos.
+
+2. Canais de atendimento e tempos de resposta
+Chat online: resposta em até 5 minutos durante horário comercial.
+E-mail: resposta em até 24 horas úteis.
+Telefone: atendimento imediato durante o horário de funcionamento, das 8h às 20h.
+
+3. Matriz de escalonamento
+Reclamações não resolvidas em primeiro contato devem ser escaladas ao supervisor de atendimento em até 2 horas. Casos envolvendo risco reputacional são escalados diretamente à gerência de Customer Success.
+
+4. Pesquisa de satisfação (CSAT)
+Após o encerramento de cada chamado, é enviada uma pesquisa de satisfação. Notas abaixo de 3 (em escala de 1 a 5) geram contato de acompanhamento em até 48 horas.
+
+5. Registro de interações
+Todas as interações com clientes devem ser registradas no sistema de CRM, incluindo canal, duração e resumo do atendimento.

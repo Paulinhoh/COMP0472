@@ -1,0 +1,16 @@
+Guia de Etiqueta para Reuniões Remotas — TechNova Soluções
+
+1. Uso de câmera
+O uso de câmera é recomendado, mas não obrigatório, em reuniões internas. Em reuniões com clientes externos, o uso de câmera é obrigatório para a equipe da TechNova.
+
+2. Gravação de reuniões
+Reuniões só podem ser gravadas mediante consentimento explícito de todos os participantes, informado no início da chamada.
+
+3. Ferramentas aprovadas
+As ferramentas oficiais de videoconferência da empresa são as homologadas pelo time de TI; o uso de ferramentas alternativas não aprovadas para reuniões de trabalho é desencorajado por motivos de segurança.
+
+4. Pontualidade e fuso horário
+Reuniões com equipes em fusos horários diferentes devem sempre informar o horário em UTC na convocação, para evitar conflitos de agenda.
+
+5. Pauta e atas
+Reuniões com mais de 4 participantes devem ter pauta enviada com antecedência e ata registrada e compartilhada em até 24 horas após o encerramento.

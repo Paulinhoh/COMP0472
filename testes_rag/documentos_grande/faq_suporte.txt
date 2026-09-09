@@ -1,0 +1,22 @@
+Perguntas Frequentes — Suporte de TI (TechNova Soluções)
+
+Como abro um chamado de suporte?
+Chamados podem ser abertos pelo portal interno de TI ou pelo e-mail suporte@technova.example.
+
+Qual o tempo médio de resposta por prioridade?
+Prioridade P1 (crítico): até 1 hora.
+Prioridade P2 (alto impacto): até 4 horas.
+Prioridade P3 (impacto moderado): até 24 horas.
+Prioridade P4 (baixo impacto): até 72 horas.
+
+Como redefino minha senha sozinho?
+Através do portal de autoatendimento, disponível em autoatendimento.technova.example, usando verificação por e-mail corporativo.
+
+Qual o horário de atendimento do suporte?
+De segunda a sexta-feira, das 8h às 18h, horário local.
+
+Existe suporte para emergências fora do horário comercial?
+Sim. Incidentes críticos que afetem sistemas em produção podem ser reportados pela linha de emergência 24x7, disponível para toda a empresa.
+
+Como escalo um chamado que não foi resolvido no prazo?
+Basta responder ao chamado original solicitando escalonamento, ou contatar diretamente o supervisor de plantão.

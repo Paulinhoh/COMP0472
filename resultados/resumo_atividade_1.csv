@@ -1,0 +1,7 @@
+configuration,input_size,executions,successful_executions,success_rate,average_total_time_s,minimum_total_time_s,maximum_total_time_s,average_cpu_percent,average_ram_percent,average_threads,storage_docs_faiss_bytes
+padrao,curta,2,2,1.0,12.0224,9.7351,14.3097,0.35,0.4,15.0,98190
+padrao,longa,2,2,1.0,14.5618,12.0322,17.0914,0.05,0.4,15.0,98190
+concorrencia,curta,4,4,1.0,13.8731,8.1127,18.9997,4.4,0.8,20.0,299434
+concorrencia,longa,4,4,1.0,22.9808,12.5501,33.3486,2.75,0.8,20.0,299434
+ajuste_contexto,curta,2,2,1.0,7.7683,7.1677,8.369,0.0,0.4,15.0,299434
+ajuste_contexto,longa,2,2,1.0,13.0506,12.1293,13.9719,0.0,0.4,15.0,299434

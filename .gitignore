@@ -1,0 +1,35 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+*/.venv/
+*/venv/
+
+# Cache e artefatos Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Índices regeneráveis e cópias de trabalho do RAG
+ollama-local-rag/faiss/
+ollama-local-rag/dados/documentos_ativos/
+
+# Modelos e artefatos locais do Ollama
+.ollama/
+ollama-local-rag/.ollama/
+*.gguf
+*.safetensors
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Saídas brutas temporárias de ferramentas
+strace.out
+strace-resumo.txt
+resultados/strace-resumo.txt
+resultados/strace-disponibilidade.txt
