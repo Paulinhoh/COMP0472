@@ -118,12 +118,12 @@ Os valores completos e a data da coleta estão em [resultados/ambiente_atividade
 
 ## Instalação
 
-Todos os comandos abaixo devem ser executados a partir de `/home/paulinhoh/SO`.
+Todos os comandos abaixo devem ser executados a partir de `/home/user/SO`.
 
 ### 1. Entrar no workspace
 
 ```bash
-cd /home/paulinhoh/SO
+cd /home/user/SO
 ```
 
 ### 2. Criar o ambiente virtual

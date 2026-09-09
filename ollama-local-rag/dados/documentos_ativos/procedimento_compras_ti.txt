@@ -1,0 +1,16 @@
+Procedimento de Compras de TI — TechNova Soluções
+
+1. Alçadas de aprovação
+Compras de até R$ 2.000,00 podem ser aprovadas diretamente pelo gestor da área. Compras entre R$ 2.000,01 e R$ 20.000,00 exigem aprovação adicional da diretoria de Tecnologia. Acima de R$ 20.000,00, é necessária aprovação do comitê financeiro.
+
+2. Fornecedores homologados
+Toda aquisição de hardware e software deve ser realizada exclusivamente junto a fornecedores homologados pelo time de Compras e Segurança da Informação.
+
+3. Ciclo de renovação de equipamentos
+Notebooks corporativos são substituídos a cada 3 anos, ou antes, em caso de defeito irreparável comprovado pela equipe técnica.
+
+4. Solicitação de licenças de software
+Pedidos de novas licenças de software devem ser abertos pelo portal interno de TI, informando justificativa de uso e centro de custo responsável.
+
+5. Inventário
+Todo ativo de TI adquirido é registrado no sistema de inventário patrimonial no momento do recebimento.

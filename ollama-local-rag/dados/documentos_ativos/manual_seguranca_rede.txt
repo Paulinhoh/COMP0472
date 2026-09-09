@@ -1,0 +1,22 @@
+Manual de Segurança de Rede — TechNova Soluções
+
+1. Segmentação de rede
+A rede corporativa é dividida em VLANs distintas para colaboradores, servidores de produção, ambiente de desenvolvimento e dispositivos de convidados. O tráfego entre VLANs é controlado por firewall interno.
+
+2. Firewall e regras de acesso
+Todas as regras de firewall seguem o princípio de menor privilégio: por padrão, todo tráfego é bloqueado, e exceções são liberadas mediante solicitação formal aprovada pela equipe de Segurança.
+
+3. Acesso a redes Wi-Fi
+A rede Wi-Fi corporativa exige autenticação individual via certificado digital. A rede de convidados é isolada e não tem acesso a sistemas internos.
+
+4. Antivírus e EDR
+Todos os notebooks corporativos possuem solução de EDR (Endpoint Detection and Response) instalada e monitorada continuamente pelo time de Segurança.
+
+5. Atualização de patches
+Patches de segurança críticos devem ser aplicados em até 72 horas após o lançamento. Atualizações de rotina seguem ciclo mensal, aplicado fora do horário comercial.
+
+6. Resposta a phishing
+Colaboradores devem reportar e-mails suspeitos utilizando o botão "Reportar Phishing" disponível no cliente de e-mail corporativo. Mensagens reportadas são analisadas pela equipe de Segurança em até 4 horas.
+
+7. Auditoria
+Logs de acesso à rede são retidos por 12 meses e auditados trimestralmente.

@@ -1,0 +1,16 @@
+Política de Uso de Notebook Corporativo — TechNova Soluções
+
+1. Criptografia obrigatória
+Todos os notebooks corporativos devem ter o disco criptografado (BitLocker no Windows ou FileVault no macOS), configurado automaticamente pela equipe de TI no momento da entrega.
+
+2. Uso pessoal
+O uso do notebook corporativo para fins pessoais é permitido de forma limitada, desde que não envolva atividades ilegais, instalação de software não homologado ou armazenamento de conteúdo impróprio.
+
+3. Perda ou roubo
+Em caso de perda ou roubo do equipamento, o colaborador deve notificar o suporte de TI em até 24 horas, para bloqueio remoto e revogação de credenciais associadas.
+
+4. Devolução
+No desligamento do colaborador, o notebook deve ser devolvido em até 5 dias úteis, conforme detalhado no Procedimento de Desligamento.
+
+5. Manutenção
+Problemas de hardware ou software devem ser reportados exclusivamente ao suporte de TI; é proibido que o colaborador realize reparos por conta própria.

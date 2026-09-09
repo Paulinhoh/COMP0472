@@ -14,7 +14,7 @@ __pycache__/
 
 # Índices regeneráveis e cópias de trabalho do RAG
 ollama-local-rag/faiss/
-ollama-local-rag/dados/documentos_ativos/
+# ollama-local-rag/dados/documentos_ativos/
 
 # Modelos e artefatos locais do Ollama
 .ollama/
