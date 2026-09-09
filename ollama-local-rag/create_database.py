@@ -9,7 +9,10 @@ from pathlib import Path
 
 PROJECT_DIR = Path(__file__).resolve().parent
 FAISS_PATH = os.environ.get("RAG_FAISS_PATH", str(PROJECT_DIR / "faiss"))
-DATA_PATH = os.environ.get("RAG_DATA_PATH", str(PROJECT_DIR / "docs"))
+DATA_PATH = os.environ.get(
+    "RAG_DATA_PATH",
+    str(PROJECT_DIR / "dados" / "documentos_ativos"),
+)
 
 
 def main():

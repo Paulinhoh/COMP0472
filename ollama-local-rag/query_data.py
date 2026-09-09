@@ -19,13 +19,15 @@ def answer_query(query_text: str, k: int = 4):
     vector = FAISS.load_local(FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
 
     # Set up chain
-    prompt = ChatPromptTemplate.from_template("""Answer the following question based only on the provided context:
+    prompt = ChatPromptTemplate.from_template("""Responda a pergunta abaixo usando somente o contexto fornecido.
+
+    A resposta deve ser sempre escrita em portugues do Brasil (pt-BR), mesmo que a pergunta ou o contexto estejam em outro idioma. Nao invente informacoes que nao estejam no contexto.
 
     <context>
     {context}
     </context>
 
-    Question: {input}""")
+    Pergunta: {input}""")
 
     # Retrieve relevant documents for the query.
     retriever = vector.as_retriever(search_kwargs={"k": k})
